@@ -1,0 +1,20 @@
+{
+  "name": "jq-suggest-domain",
+  "version": "0.0.1",
+  "description": "Suggest domain for email input fields",
+  "main": "jquery.suggestDomain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cizar/jq-suggest-domain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cizar/jq-suggest-domain/issues"
+  },
+  "homepage": "https://github.com/cizar/jq-suggest-domain#readme"
+}

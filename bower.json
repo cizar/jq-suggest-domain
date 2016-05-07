@@ -1,0 +1,17 @@
+{
+  "name": "jq-suggest-domain",
+  "description": "Suggest domain for email input fields",
+  "main": "jquery.suggestDomain.js",
+  "authors": [
+    "Cesar Kastli <cesarkastli@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cizar/jq-suggest-domain",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,30 @@
+body {
+  background-color: #f0f0f0;
+  font-family: sans-serif;
+}
+.suggest-domain {
+  position: relative;
+}
+.suggest-domain ul {
+  background-color: #fff;
+  list-style-type: none;
+  padding: 0;
+}
+.suggest-domain ul.hide {
+  display: none;
+}
+.suggest-domain ul li {
+  padding: 10px;
+  color: #337ab7;
+  cursor: pointer;
+}
+.suggest-domain ul li.hide {
+  display: none;
+}
+.suggest-domain ul li:hover {
+  background-color: #eee;
+}
+.suggest-domain ul li.selected {
+  background-color: #337ab7;
+  color: white;
+}
