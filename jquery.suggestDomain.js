@@ -165,4 +165,4 @@
   $.fn[pluginName] = pluginHandler;
   
  
-}(jQuery, undefined));
+}(jQuery));
